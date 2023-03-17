@@ -4,5 +4,5 @@ This program is a graphical user interface (GUI) wrapper for command line applic
 
 # Requirements
 
-- [cue2pops](https://github.com/makefu/cue2pops-linux) loacted in cue2pops_gui directory
-- Python 3.7 or higher for subprocess functioanlity
+- [cue2pops](https://github.com/makefu/cue2pops-linux) located in cue2pops_gui directory
+- Python 3.7 or higher for subprocess functionality
